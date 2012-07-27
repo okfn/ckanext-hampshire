@@ -6518,8 +6518,10 @@ li .icon-large:before {
 }
 .masthead .header-image .logo {
   display: block;
-  width: 240px;
+  width: 320px;
   height: 50px;
+  margin-top: 8px;
+  margin-right: 20px;
   background-image: url("../images/ckan-logo.png");
   background-position: top left;
   background-repeat: no-repeat;
